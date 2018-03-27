@@ -5,3 +5,4 @@
     - [Angular](/angular)
     - [React](/react)
     - [Vue](/vue)
+    - [快应用](/quickapp)
